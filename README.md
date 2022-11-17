@@ -1,7 +1,7 @@
 # Efficient Open Domain Question Answering
 
-ANCE: https://aka.ms/ance  
-APE: https://github.com/uclnlp/APE  
+ANCE: Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval, in arXiv 2020. [code](https://aka.ms/ance)  
+APE: Training Adaptive Computation for Open-Domain Question Answering with Computational Constraints, in ACL-IJCNLP 2021. [code](https://github.com/uclnlp/APE  
 Bert-serini: https://github.com/castorini/bertserini  
 Block pruning: https://github.com/huggingface/nn_pruning  
 Block skim: https://paperswithcode.com/paper/block-skim-efficient-question-answering-for#code   
