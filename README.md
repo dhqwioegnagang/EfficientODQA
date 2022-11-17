@@ -1,7 +1,7 @@
 # Efficient Open Domain Question Answering
 
-ANCE: Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval, in arXiv 2020. [[paper]](https://www.semanticscholar.org/paper/Approximate-Nearest-Neighbor-Negative-Contrastive-Xiong-Xiong/c9b8593db099869fe7254aa1fa53f3c9073b0176)[[code]](https://aka.ms/ance)  
-APE: Training Adaptive Computation for Open-Domain Question Answering with Computational Constraints, in ACL-IJCNLP 2021. [[paper]](https://aclanthology.org/2021.acl-short.57/)[[code]](https://github.com/uclnlp/APE)  
+[1] ANCE: Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval, in arXiv 2020. [[paper]](https://www.semanticscholar.org/paper/Approximate-Nearest-Neighbor-Negative-Contrastive-Xiong-Xiong/c9b8593db099869fe7254aa1fa53f3c9073b0176)[[code]](https://aka.ms/ance)  
+[2] APE: Training Adaptive Computation for Open-Domain Question Answering with Computational Constraints, in ACL-IJCNLP 2021. [[paper]](https://aclanthology.org/2021.acl-short.57/)[[code]](https://github.com/uclnlp/APE)  
 Bert-serini: https://github.com/castorini/bertserini  
 Block pruning: https://github.com/huggingface/nn_pruning  
 Block skim: https://paperswithcode.com/paper/block-skim-efficient-question-answering-for#code   
